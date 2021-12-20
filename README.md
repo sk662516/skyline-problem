@@ -5,7 +5,7 @@ in the city. All buildings are rectangular in shape and they share a common bott
 (a flat surface). A building is specified by an ordered triplet (Li, Ri, Hi) where Li and
 Ri are the left and right (x) coordinates, respectively, of the building i (0 < Li < Ri)
 and Hi is the height of the building.
---Shubham
+--Shubham kumar
 
 ### For example, the input can be as follows.
 

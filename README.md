@@ -1,12 +1,14 @@
-
 # Problem Statement
+
 Assist an architect in drawing the skyline of a city given the locations of the buildings
 in the city. All buildings are rectangular in shape and they share a common bottom
 (a flat surface). A building is specified by an ordered triplet (Li, Ri, Hi) where Li and
 Ri are the left and right (x) coordinates, respectively, of the building i (0 < Li < Ri)
 and Hi is the height of the building.
+--Shubham
 
 ### For example, the input can be as follows.
+
 (33, 41, 5) <br>
 (4, 9, 21)<br>
 (30, 36, 9)<br>
